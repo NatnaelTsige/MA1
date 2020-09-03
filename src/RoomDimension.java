@@ -3,9 +3,10 @@ class RoomDimension {
    private double length;
    private double width;
 
-   //Instance method.
-   //Returns the area.
-   public double area(){
-      return length * width;
+   //Instance method, that assign value to the fields.
+   public RoomDimension(double length, double width) {
+      this.length = length;
+      this.width = width;
    }
+
 }
