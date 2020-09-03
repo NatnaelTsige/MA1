@@ -4,6 +4,7 @@ CPT-S 223: Micro Assignment #1
 Date: 9/3/2020
 url: https://github.com/NatnaelTsige/MA1.git
  */
+
 import java.util.*;
 
 public class WestfieldCarpetCompany {
