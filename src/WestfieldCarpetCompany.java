@@ -18,7 +18,7 @@ public class WestfieldCarpetCompany {
         System.out.print("Enter Carpet cost per feet: ");
         double carpetPrice = scan.nextDouble();
         RoomCarpet price =new RoomCarpet(rd, carpetPrice);
-        System.out.println("Total cost of Carpet: "+price.getTotalCost()+"$");
+        System.out.println("Total cost of Carpet: " + "$" + price.getTotalCost());
     }
 }
 
