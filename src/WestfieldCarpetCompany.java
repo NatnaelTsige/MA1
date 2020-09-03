@@ -1,14 +1,14 @@
-import java.util.*;
 /*
 Name: Natnael Tsige
 CPT-S 223: Micro Assignment #1
 Date: 9/3/2020
 url: https://github.com/NatnaelTsige/MA1.git
  */
+import java.util.*;
+
 public class WestfieldCarpetCompany {
 
     public static void main(String[] args) {
-
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter length of room: ");
         double length = scan.nextDouble();
